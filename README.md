@@ -18,7 +18,6 @@ Predictive Modeling: Build a machine learning model to forecast scores based on 
 Insight Generation: Identify trends and exceptions in the study-time-to-score relationship
 Practical Application: Create a tool for educators and students to set realistic study expectations
 
-# <b> </b> <br>
 # <b>Technical Implementation </b> <br>
 Algorithm: Linear Regression for clear interpretability
 Data: Real student study-hour and score datasets
